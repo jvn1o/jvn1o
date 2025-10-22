@@ -1,7 +1,5 @@
 # 👋 준성's Github
 
----
-
 ## 🧠 About Me
 - 🎓 **정보통신공학 전공**, 정보처리산업기사 취득  
 - 💻 **Java 풀스택 개발자 과정 수료** (JSP, Spring Boot, Nuxt.js, MyBatis, REST API 등)  
